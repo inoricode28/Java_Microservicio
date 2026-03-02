@@ -1,7 +1,5 @@
 package com.example.Java1.demo;
 
-import com.example.Java1.demo.Computer;
-import com.example.Java1.demo.Sale;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
